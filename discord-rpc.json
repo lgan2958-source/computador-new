@@ -1,0 +1,15 @@
+{
+  "ApplicationId": null,
+  "AppName": "Voidstrap",
+  "Details": "",
+  "State": "",
+  "LargeImageKey": "large",
+  "SmallImageKey": "small",
+  "Button1Enabled": false,
+  "Button2Enabled": false,
+  "Button1Label": "Website",
+  "Button1Url": "https://example.com",
+  "Button2Label": "Join",
+  "Button2Url": "https://discord.gg/",
+  "AutoStartRpc": false
+}
